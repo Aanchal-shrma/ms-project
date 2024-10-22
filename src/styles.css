@@ -27,6 +27,7 @@ section {
 
 section.min-height {
   min-height: 100vh;
+  min-width: 100px;
 }
 
 section.padding {
